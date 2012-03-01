@@ -8,5 +8,9 @@ public class HelloGitWorld {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public String toString() {
+		return  "I'm HelloGitHord class' object";
+	}
 
 }
